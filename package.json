@@ -1,0 +1,21 @@
+{
+  "name": "argparse-array-formatter",
+  "version": "1.0.0",
+  "description": "Custom argparse formatter that allows multiple paragraph descriptions",
+  "main": "argparse-array-formatter.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "argparse"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/msikma/argparse-array-formatter"
+  },
+  "author": "Michiel Sikma <michiel@sikma.org> (http://michielsikma.com/)",
+  "license": "MIT",
+  "devDependencies": {
+    "argparse": "^1.0.2"
+  }
+}
